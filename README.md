@@ -1,4 +1,15 @@
-### Hi there 👋
+## Gabriel Groenendaal
+-
+
+### About Me
+-
+
+### Projects
+-
+
+### Skills
+-
+
 
 <!--
 **GabrielGroenendaal/GabrielGroenendaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
