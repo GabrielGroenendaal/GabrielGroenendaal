@@ -1,5 +1,5 @@
 ## Gabriel Groenendaal
--
+Graduate of Tisch School of the Arts NYU with a Bachelors in Game Design. 4+ years of game development experience both in the digital and analog mediums. Currently looking for an inspiring position where I can use my skills in game design and engineering. View my portfolio for more information on my current and past projects.
 
 ### About Me
 -
