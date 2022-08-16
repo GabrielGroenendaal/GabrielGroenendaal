@@ -6,7 +6,7 @@ I am a 25 year old software engineer from New York City and a graduate of AppAca
 - 😄 Pronouns: He/Him
 - 🌱 I'm currently learning ... Data Structures and Algorithms in Python
 - 👯 I'm looking to collaborate on... FullStack projects! 
-- ⚡ Fun Fact: When I'm not programming, you can find me doing challenge runs of Pokemon games or knitting!
+- ⚡ Fun Fact: When I'm not programming, you can find me doing challenge runs of Pokemon games or running a D&D campaign!
 - 📫 How to reach me ... Send me a message at [gabegroenendaal@gmail.com](mailto:gabegroenendaal@gmail.com) [LinkedIn](https://www.linkedin.com/in/gabriel-groenendaal/) [AngelList](https://angel.co/u/gabriel-groenendaal)
 
 ### Languages and Tools:
